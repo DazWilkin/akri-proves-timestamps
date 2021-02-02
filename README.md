@@ -1,4 +1,4 @@
-# Minimal repro for issue unmarshaling RFC3339 strings as Time
+# Repro: Unmarshaling RFC3339 strings as Time
 
 Add a breakpoint at lines 41|57
 
